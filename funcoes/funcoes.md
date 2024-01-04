@@ -29,7 +29,7 @@ Como a reta horizontal representa x, onde (x, f(x)), dizer que x intercepta o gr
 - **Multiplicar Negativamente**, isto é -1.x, todos os valores da imagem, resulta em **reflexão sobre o eixo horizontal**.
 
 ## Trasformações Horizontais.
-
+$2^2$
 - As transformações afetam o domínio de uma função.
 
 - Dado que g(x) = f(x + 1), se o conjunto de f(x) é [-1,1] então o domínio de g(x - 1) onde g(x) é [0, 1].
